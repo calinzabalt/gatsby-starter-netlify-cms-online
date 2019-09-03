@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Great content for entrepreneurs
+title: Blog Despre Educatie
 image: /img/bg.jpg
 heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+subheading: '"Creeaza si Citeste continut zilnic"'
 mainpitch:
   title: Why Kaldi
   description: >
