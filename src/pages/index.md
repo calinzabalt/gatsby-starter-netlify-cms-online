@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Blog Despre Educatie
-image: /img/bg.jpg
+image: /img/book-2948634.png
 heading: Great coffee with a conscience
 subheading: '"Creeaza si Citeste continut zilnic"'
 mainpitch:
