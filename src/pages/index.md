@@ -2,17 +2,16 @@
 templateKey: index-page
 title: Blog Despre Educatie
 image: /img/book-2948634.png
-heading: Great coffee with a conscience
+heading: De ce am construit aceasta platforma ?
 subheading: '"Creeaza si Citeste continut zilnic"'
 mainpitch:
-  title: 'Aceasta platforma este complet gratuita '
-  description: |+
-
+  title: 'Aceasta platforma contine informatii despre: '
+  description: >
+    Dezvoltare Personala, Anteprenoriat, Bani, Colaborari, Voluntariat, Idei De
+    Afaceri.
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Am construit aceasta platforma pentru a aduce continut valoros tuturor
+  oamenilor care doresc sa se reprogrameze (auto-educe).
 intro:
   blurbs:
     - image: /img/coffee.png
