@@ -14,10 +14,10 @@ description: >-
   oamenilor care doresc sa se reprogrameze (auto-educe).
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/carpenter-41272_640.png
       text: >
         Aceasta platforma este construita special pentru oameni care doresc sa
-        isi dezvolte abilitati-le si de a gasi altele noi.
+        isi dezvolte aptitudini-le si de a gasi altele noi.
     - image: /img/coffee-gear.png
       text: >
         Daca intampinati probleme la utilizarea website-ului sau daca doriti sa
