@@ -18,17 +18,17 @@ intro:
       text: >
         Aceasta platforma este construita special pentru oameni care doresc sa
         isi dezvolte aptitudini-le si de a gasi, dezvolta altele noi.
-    - image: /img/hammer-28636_640.png
+    - image: /img/notebook-2282300_640.png
       text: >
+        Platforma este complet gratuita si daca doriti sa va inregistraiti
+        pentru a adauga continut va rog sa cititi termenii si condiitle.
+    - image: /img/hammer-28636_640.png
+      text: >-
         Daca intampinati probleme la utilizarea website-ului sau daca doriti sa
         sugerati continut care ajuta la imbunatatirea 
 
         website-ului atunci va rog sa trimite-ti un mesaj la pagina de contact
         sau la adresa de email: Blogultau@gmail.com
-    - image: /img/notebook-2282300_640.png
-      text: >-
-        Platforma este complet gratuita si daca doriti sa va inregistraiti
-        pentru a adauga continut va rog sa cititi termenii si condiitle.
     - image: /img/why-1352167_640.png
       text: >
         Crezi in dezvoltare personala ? Ai noi medote prin care crezi ca poti sa
