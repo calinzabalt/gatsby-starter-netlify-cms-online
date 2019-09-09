@@ -14,11 +14,11 @@ description: >-
   oamenilor care doresc sa se reprogrameze (auto-educe).
 intro:
   blurbs:
-    - image: /img/handshake-2009195_640.png
+    - image: /img/brain-2062057_640.jpg
       text: >
         Aceasta platforma este construita special pentru oameni care doresc sa
-        isi dezvolte aptitudini-le si de a gasi altele noi.
-    - image: /img/computer-problem-152211_640.png
+        isi dezvolte aptitudini-le si de a gasi, dezvolta altele noi.
+    - image: /img/hammer-28636_640.png
       text: >
         Daca intampinati probleme la utilizarea website-ului sau daca doriti sa
         sugerati continut care ajuta la imbunatatirea 
