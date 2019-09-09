@@ -14,7 +14,7 @@ description: >-
   oamenilor care doresc sa se reprogrameze (auto-educe).
 intro:
   blurbs:
-    - image: /img/carpenter-41272_640.png
+    - image: /img/handshake-2009195_640.png
       text: >
         Aceasta platforma este construita special pentru oameni care doresc sa
         isi dezvolte aptitudini-le si de a gasi altele noi.
