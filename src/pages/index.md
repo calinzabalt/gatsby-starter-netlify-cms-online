@@ -9,9 +9,6 @@ mainpitch:
   description: >
     Dezvoltare Personala, Anteprenoriat, Bani, Colaborari, Voluntariat, Idei De
     Afaceri.
-description: >-
-  Am construit aceasta platforma pentru a aduce continut valoros tuturor
-  oamenilor care doresc sa se reprogrameze (auto-educe).
 intro:
   blurbs:
     - image: /img/brain-2062057_640.jpg
