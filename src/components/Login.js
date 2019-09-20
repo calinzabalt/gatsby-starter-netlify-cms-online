@@ -1,4 +1,5 @@
 import React, { Component } from 'react'
+import { Link } from 'gatsby'
 //Imports Netlify Identity script into 
 function initNetlifyIdentity() {
     console.log("initNetlifyIdentity called.")
@@ -32,7 +33,7 @@ const Login = () => {
         return (
             <div className="login">
             <NetlifyIdentity/>
-            <h5 onClick={() => { openNetlifyModal() }}>Login</h5>
+            <Link className="btn" onClick={() => { openNetlifyModal() }}>Login / Sign up</Link>
             </div>
     )
 }
