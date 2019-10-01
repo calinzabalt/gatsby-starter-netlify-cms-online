@@ -6,22 +6,7 @@ module.exports = {
     description:
       'This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.',
   },
-  plugins: [
-    {
-      resolve: `gatsby-plugin-manifest`,
-      options: {
-        name: `GatsbyJS`,
-        short_name: `GatsbyJS`,
-        start_url: `/`,
-        background_color: `#FFF`,
-        theme_color: `#FFF`,
-        display: `standalone`,
-      },
-    },
-  ],
   
-  plugins: [`gatsby-plugin-offline`],
-
   plugins: [
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-sass',
