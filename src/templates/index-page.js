@@ -97,6 +97,14 @@ export const IndexPageTemplate = ({
                   <h3 className="has-text-weight-semibold is-size-2">
                     Ultimele Postari
                   <Login />  
+                  <a
+                        className="btn"
+                        href="/admin/"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                      >
+                        Adauga continut
+                  </a>
                   </h3>
                   <BlogRoll />
                   <div className="column is-12 has-text-centered">

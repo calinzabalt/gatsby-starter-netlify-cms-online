@@ -35,7 +35,7 @@ const Footer = class extends React.Component {
                         target="_blank"
                         rel="noopener noreferrer"
                       >
-                        Admin
+                        Adauga continut
                       </a>
                     </li>
                   </ul>
