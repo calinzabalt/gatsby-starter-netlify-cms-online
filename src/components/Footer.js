@@ -54,19 +54,24 @@ const Footer = class extends React.Component {
                         Contact
                       </Link>
                     </li>
+                    <li>
+                      <Link className="navbar-item" to="/terms">
+                        Termenii & Conditiile
+                      </Link>
+                    </li>
                   </ul>
                 </section>
               </div>
               <div className="column is-4 social">
 
-                <a title="facebook" href="https://facebook.com">
+                <a title="facebook" target="blank" href="https://www.facebook.com/BlogEducatie-106112807467993/?modal=admin_todo_tour">
                   <img
                     src={facebook}
                     alt="Facebook"
                     style={{ width: '1em', height: '1em' }}
                   />
                 </a>
-                <a title="twitter" href="https://twitter.com">
+                <a title="twitter" target="blank" href="https://twitter.com/BEducatie">
                   <img
                     className="fas fa-lg"
                     src={twitter}
@@ -74,7 +79,7 @@ const Footer = class extends React.Component {
                     style={{ width: '1em', height: '1em' }}
                   />
                 </a>
-                <a title="instagram" href="https://instagram.com">
+                <a title="instagram" target="blank" href="https://instagram.com">
                   <img
                     src={instagram}
                     alt="Instagram"
