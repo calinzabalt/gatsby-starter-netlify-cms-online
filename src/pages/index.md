@@ -9,6 +9,7 @@ mainpitch:
   description: >
     Dezvoltare Personala, Anteprenoriat, Bani, Colaborari, Voluntariat, Idei De
     Afaceri.
+description: ' '
 intro:
   blurbs:
     - image: /img/brain-2062057_640.jpg
@@ -46,12 +47,12 @@ main:
     optimal for the plants, farmers and the local environment.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    image: /img/blog-index.jpg
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    image: /img/book-2948634.png
   image3:
     alt: Coffee beans
-    image: /img/products-grid1.jpg
+    image: /img/brain-2062057_640.jpg
 ---
 
